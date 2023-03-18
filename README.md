@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Matias Varrone <!--![](https://komarev.com/ghpvc/?username=mvarrone)-->
-I am a Telecommunications Engineer student at Universidad Blas Pascal
+I am a Telecommunications Engineer from Argentina
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasvarrone/)
