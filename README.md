@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 # Hi, I'm Matias Varrone <!--![](https://komarev.com/ghpvc/?username=mvarrone)-->
 I am a Telecommunications Engineer from Argentina
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasvarrone/)
+- 🌱 I’m currently learning for CCNA and DEVASC certs
+
+- 📫 How to reach me:
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasvarrone/)
+  - Email: mativarrone2@gmail.com
