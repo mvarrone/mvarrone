@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 I am a Telecommunications Engineer from Argentina
 
 - 🌱 Currently studying for CCNA and DEVASC certs
-- You can check some of my projects here on GitHub, so go ahead
+- You can check some of my projects here on GitHub
 - 📫 How to reach me:
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasvarrone/)
   - Email: mativarrone2@gmail.com
-- ⚡My gists: [Gists](https://gist.github.com/mvarrone)
+- ⚡My [Gists](https://gist.github.com/mvarrone)
