@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Matias Varrone <!--![](https://komarev.com/ghpvc/?username=mvarrone)-->
-I am a Telecommunications Engineer from Argentina
+A Telecommunications Engineer from Argentina
 
 - 🌱 Currently studying for CCNA and DEVASC certs
 - You can check some of my projects here on GitHub
