@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Hi, I'm Matias Varrone <!--![](https://komarev.com/ghpvc/?username=mvarrone)-->
 A Telecommunications Engineer from Argentina
 
-- 🌱 Currently studying Machine Learning on Coursera
+- 🌱 Currently studying a Machine Learning Specialization on Coursera
 - You can check some of my projects here on GitHub
 - 📫 How to reach me:
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasvarrone/)
