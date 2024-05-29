@@ -22,5 +22,4 @@ A Telecommunications Engineer from Argentina
 - 🌱 Currently studying [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) on Coursera by Adjunct Professor at Stanford University Andrew Ng, Stanford University and DeepLearning.AI
 - ⚡My [Gists](https://gist.github.com/mvarrone)
 - 📫 How to reach me:
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasvarrone/)
+  * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasvarrone/)
