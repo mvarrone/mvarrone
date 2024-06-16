@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 # Welcome <!--![](https://komarev.com/ghpvc/?username=mvarrone)-->
-A Telecommunications Engineer from Argentina focused on AI
 
 - 🌱 Currently studying [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) on Coursera by Adjunct Professor at Stanford University Andrew Ng, Stanford University and DeepLearning.AI
 - ⚡My [Gists](https://gist.github.com/mvarrone)
