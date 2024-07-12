@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 
 - 🌱 Currently studying [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) on Coursera's platform by Adjunct Professor Andrew Ng (Stanford University), Stanford University and DeepLearning.AI
 - ⚡My [Gists](https://gist.github.com/mvarrone)
-- 📫 How to reach me:
-  * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasvarrone/)
