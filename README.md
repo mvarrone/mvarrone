@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 # Welcome, 😄 <!--![](https://komarev.com/ghpvc/?username=mvarrone)-->
 - My name is Matias Varrone, a Telecommunications Engineer graduated from Universidad Blas Pascal (UBP), Argentina.
-- I'm currently transitioning into Artificial Intelligence, a domain I find incredibly fascinating and full of potential.
-- 🌱 Taking a specialization course about it, [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction), by Stanford University and DeepLearning.AI on Coursera's platform 
 - In the past, I have been working on Network Automation with Python.
-- ⚡You can take a look at some of my [Gists](https://gist.github.com/mvarrone)
+- I'm currently transitioning into Artificial Intelligence, a domain I find incredibly fascinating and full of potential.
+- 🌱 Taking a specialization course about it, [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction), by Stanford University and DeepLearning.AI on Coursera's platform
+- 🌱 After completing this specialization, I plan to dive even deeper into the world of AI with [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) and some NVIDIA courses on CUDA as well.
+- ⚡You can take a look at some of my [Gists](https://gist.github.com/mvarrone) where I post some fixes that are quick to implement
 - 📫 Feel free to contact me: [LinkedIn](https://www.linkedin.com/in/matiasvarrone/)
