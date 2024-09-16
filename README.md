@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 ### Hi there 👋
 -->
 
-# Welcome <!--![](https://komarev.com/ghpvc/?username=mvarrone)-->
-
-- 🌱 Currently studying [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) on Coursera's platform by Adjunct Professor Andrew Ng (Stanford University), Stanford University and DeepLearning.AI
-- ⚡My [Gists](https://gist.github.com/mvarrone)
+# Welcome, 😄 <!--![](https://komarev.com/ghpvc/?username=mvarrone)-->
+- My name is Matias Varrone, a Telecommunications Engineer graduated from Universidad Blas Pascal (UBP), Argentina.
+- I'm currently transitioning into Artificial Intelligence, a domain I find incredibly fascinating and full of potential.
+- 🌱 Taking a specialization course about it, [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction), by Stanford University and DeepLearning.AI on Coursera's platform 
+- In the past, I have been working on Network Automation with Python.
+- ⚡You can take a look at some of my [Gists](https://gist.github.com/mvarrone)
+- 📫 Feel free to contact me: [LinkedIn](https://www.linkedin.com/in/matiasvarrone/)
