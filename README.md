@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Welcome, 😄 <!--![](https://komarev.com/ghpvc/?username=mvarrone)-->
 - My name is Matias Varrone, a Telecommunications Engineer graduated from Universidad Blas Pascal (UBP), Argentina.
-- In the past, I have been working on Network Automation with Python.
+- In the past, I have worked on Networking. The need to automate daily processes led me to discover Python and dive into the field of Network Programmability. This journey later led me to study REST API development and Vue.js to formalize internal company projects.
 - I'm currently transitioning into Artificial Intelligence, a domain I find incredibly fascinating and full of potential.
 - 🌱 Taking a specialization course about it, [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction), by Stanford University and DeepLearning.AI on Coursera's platform
 - 🌱 After completing this specialization, I plan to dive even deeper into the world of AI with [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) and some NVIDIA courses on CUDA as well.
