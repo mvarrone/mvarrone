@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - 🌱 Taking a specialization course about it, [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction), by Stanford University and DeepLearning.AI
 - 🌱 After completing this specialization, I plan to dive even deeper into the world of AI with [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) and NVIDIA courses on CUDA as well.
 - ⚡Take a look at some of my [Gists](https://gist.github.com/mvarrone) where I post some fixes that are quick to implement
-- ⚡Check out some of my automation projects (To-Do)
+- ⚡Check out some of my [automation projects](https://github.com/mvarrone/automation-projects)
 - 📫 Feel free to contact me: [LinkedIn](https://www.linkedin.com/in/matiasvarrone/)
