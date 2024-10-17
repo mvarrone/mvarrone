@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 - 🌱 After completing this specialization, I plan to dive even deeper into the world of AI with [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) and NVIDIA courses on CUDA as well.
 - ⚡Take a look at some of my [Gists](https://gist.github.com/mvarrone) where I post some fixes that are quick to implement
 - ⚡Check out some of my [automation projects](https://github.com/mvarrone/automation-projects)
+- ⚡Check out some of my [backend/fullstack projects](https://github.com/mvarrone/app-projects)
 - 📫 Feel free to contact me: [LinkedIn](https://www.linkedin.com/in/matiasvarrone/)
