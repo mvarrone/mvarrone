@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - ⚡Take a look at some of my [Gists](https://gist.github.com/mvarrone) where I post some fixes that are quick to implement
 - ⚡Check out some of my [automation projects](https://github.com/mvarrone/automation-projects)
 - ⚡Check out some of my [backend/fullstack projects](https://github.com/mvarrone/app-projects)
-- 📫 Feel free to contact me: [LinkedIn](https://www.linkedin.com/in/matiasvarrone/)
+- 📫 Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/matiasvarrone/)
