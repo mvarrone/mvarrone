@@ -17,12 +17,26 @@ Here are some ideas to get you started:
 -->
 
 # Welcome to my GitHub! 👋
+
 - My name is Matias Varrone, a Telecommunications Engineer graduated from Universidad Blas Pascal (UBP), Argentina.
-- In the past, I have worked on Networking. The need to automate daily processes led me to discover Python and dive into the field of Network Programmability. This journey later led me to study REST API development and Vue.js to formalize internal company projects.
-- I'm currently transitioning into Artificial Intelligence, a domain I find incredibly fascinating and full of potential.
-- 🌱 Taking a specialization course about it, [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction), by Stanford University and DeepLearning.AI
-- 🌱 After completing this specialization, I plan to dive even deeper into the world of AI with [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) and NVIDIA courses on CUDA as well.
-- ⚡Take a look at some of my [Gists](https://gist.github.com/mvarrone) where I post some fixes that are quick to implement
-- ⚡Check out some of my [automation projects](https://github.com/mvarrone/automation-projects)
-- ⚡Check out some of my [backend/fullstack projects](https://github.com/mvarrone/app-projects)
-- 📫 Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/matiasvarrone/)
+- I began my career in Networking, where the need to automate daily processes led me to discover Python and Network Programmability. This journey expanded to REST API development and Vue.js to formalize internal projects.
+- Currently, I’m transitioning into **Artificial Intelligence**, a field rich with potential and fascinating challenges.
+
+### 🎓 AI Studies and Specializations
+- 🌱 I’m pursuing the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) by Stanford University and DeepLearning.AI to build a solid AI foundation.
+
+### 📅 Upcoming Courses
+#### After completing my current specialization, I plan to dive into:
+  - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by Stanford University and DeepLearning.AI to deepen my understanding of neural networks and advanced AI concepts.
+  - Since **Computer Vision** is the field that interests me most, I'll be taking the [Deep Learning for Computer Vision with Python and TensorFlow – Complete Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=4202s) to gain hands-on experience.
+
+#### NVIDIA CUDA
+  - On the other hand, I’m also interested in expanding my knowledge of CUDA technology to enhance AI performance. Therefore, the [CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4&t=11761s) might be a great choice.
+
+### Projects and Contributions
+- ⚡ Take a look at my [automation projects](https://github.com/mvarrone/automation-projects).
+- ⚡ Explore my [backend/fullstack projects](https://github.com/mvarrone/app-projects).
+- ⚡ Check out some of my [Gists](https://gist.github.com/mvarrone) where I post quick fixes and useful snippets.
+
+### 📫 Get in Touch
+Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/matiasvarrone/)
