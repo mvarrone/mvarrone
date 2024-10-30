@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Welcome to my GitHub! 👋
 
-- My name is Matias Varrone, a Telecommunications Engineer graduated from Universidad Blas Pascal (UBP), Argentina.
+- My name is Matias Varrone, a Telecommunications Engineer graduated from [Universidad Blas Pascal (UBP)](https://www.ubp.edu.ar), Argentina.
 - I began my career in Networking, where the need to automate daily processes led me to discover Python and Network Programmability. This journey expanded to REST API development and Vue.js to formalize internal projects.
 - Currently, I’m transitioning into **Artificial Intelligence**, a field rich with potential and fascinating challenges.
 
