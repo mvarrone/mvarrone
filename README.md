@@ -22,10 +22,13 @@ Here are some ideas to get you started:
 - I began my career in Networking, where the need to automate daily processes led me to discover Python and Network Programmability. This journey expanded to REST API development and Vue.js to formalize internal projects.
 - Currently, I’m transitioning into **Artificial Intelligence**, a field rich with potential and fascinating challenges.
 
-### 🎓 AI Studies and Specializations
+## 🎓 AI Studies and Specializations
+
+### 📚 Current specialization
 - 🌱 I’m pursuing the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) by Stanford University and DeepLearning.AI to build a solid AI foundation.
 
 ### 📅 Upcoming Courses
+
 #### After completing my current specialization, I plan to dive into:
   - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by Stanford University and DeepLearning.AI to deepen my understanding of neural networks and advanced AI concepts.
   - Since **Computer Vision** is the field that interests me most, I'll be taking the [Deep Learning for Computer Vision with Python and TensorFlow – Complete Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=4202s) to gain hands-on experience.
