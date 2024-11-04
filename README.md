@@ -23,14 +23,15 @@ Here are some ideas to get you started:
 - Currently, I’m transitioning into **Artificial Intelligence**, a field rich with potential and fascinating challenges.
 
 ## 🎓 AI Studies and Specializations
+- 🌱 I have completed the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) by Stanford University and DeepLearning.AI to build a solid AI foundation.
+
+You can follow my journey at [machine-learning-specialization](https://github.com/mvarrone/machine-learning-specialization)
 
 ### 📚 Current specialization
-- 🌱 I’m pursuing the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) by Stanford University and DeepLearning.AI to build a solid AI foundation.
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by Stanford University and DeepLearning.AI to deepen my understanding of neural networks and advanced AI concepts.
 
 ### 📅 Upcoming Courses
-
 #### After completing my current specialization, I plan to dive into:
-  - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by Stanford University and DeepLearning.AI to deepen my understanding of neural networks and advanced AI concepts.
   - Since **Computer Vision** is the field that interests me most, I'll be taking the [Deep Learning for Computer Vision with Python and TensorFlow – Complete Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=4202s) to gain hands-on experience.
 
 #### NVIDIA CUDA
