@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by DeepLearning.AI to deepen my understanding of neural networks and advanced AI concepts. You can follow my journey at [deep-learning-specialization](https://github.com/mvarrone/deep-learning-specialization)
 
+- Also, I have taken the following course to gain more hands-on experience on Computer Vision [Deep Learning for Computer Vision with Python and TensorFlow – Complete Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=4202s)
+
 ### 📅 Upcoming Courses
-#### After completing my current specialization, I plan to dive into:
-  - Since **Computer Vision** is the field that interests me most, I'll be taking the [Deep Learning for Computer Vision with Python and TensorFlow – Complete Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=4202s) to gain hands-on experience.
   - On the other hand, I’m also interested in expanding my knowledge of CUDA technology to enhance AI performance. Therefore, the [CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4&t=11761s) might be a great choice.
 
 ### Projects and Contributions
